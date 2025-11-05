@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Facebook",
+    "image": "https://andohemo.github.io/logos_quiz/facebook.png"
+  },
+  {
+    "brand": "Instagram",
+    "image": "https://andohemo.github.io/logos_quiz/instagram.png"
+  },
+  {
+    "brand": "YouTube",
+    "image": "https://andohemo.github.io/logos_quiz/youtube.png"
+  },
+  {
+    "brand": "Spotify",
+    "image": "https://andohemo.github.io/logos_quiz/spotify.png"
+  },
+  {
+    "brand": "LinkedIn",
+    "image": "https://andohemo.github.io/logos_quiz/linkedin.png"
+  },
+  {
+    "brand": "PayPal",
+    "image": "https://andohemo.github.io/logos_quiz/paypal.png"
+  },
+  {
+    "brand": "Wikipedia",
+    "image": "https://andohemo.github.io/logos_quiz/wikipedia.png"
+  },
+  {
+    "brand": "Behance",
+    "image": "https://andohemo.github.io/logos_quiz/behance.png"
+  },
+  {
+    "brand": "WordPress",
+    "image": "https://andohemo.github.io/logos_quiz/wordpress.png"
+  },
+  {
+    "brand": "Snapchat",
+    "image": "https://andohemo.github.io/logos_quiz/snapchat.png"
+  },
+  {
+    "brand": "Gorjeo",
+    "image": "https://andohemo.github.io/logos_quiz/gorjeo.png"
+  },
+  {
+    "brand": "Dropbox",
+    "image": "https://andohemo.github.io/logos_quiz/dropbox.png"
+  },
+  {
+    "brand": "Trello",
+    "image": "https://andohemo.github.io/logos_quiz/trello.png"
+  },
+  {
+    "brand": "WhatsApp",
+    "image": "https://andohemo.github.io/logos_quiz/whatsapp.png"
+  },
+  {
+    "brand": "Etsy",
+    "image": "https://andohemo.github.io/logos_quiz/etsy.png"
+  }
+]
